@@ -2,6 +2,7 @@
 ### Internet of Things – Individual Assignment
 
 This project proposes a **Smart IoT Street Lighting System** designed to solve real-world safety, energy, and sustainability challenges.  
+
 The system uses IoT sensors, microcontrollers, wireless communication, and solar technology to intelligently control street lights based on **visibility**, **weather**, **motion**, and **traffic conditions**.
 
 ---
