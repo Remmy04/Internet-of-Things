@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 🌐 Internet of Things (IoT) – Smart Systems & Intelligent Agriculture
 
 This repository contains my full coursework for the **Internet of Things** module, including both individual and group assignments.  
